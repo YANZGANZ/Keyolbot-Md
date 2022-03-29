@@ -14,23 +14,23 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key', // masukin apikey disini
+	'https://zenzapi.xyz': 'bac6820f7f', // masukin apikey disini
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
-global.footer = 'Keyolbot-Md'
+global.owner = ['48729759866','48699532476','48729759866']
+global.ownernomer = '48729759866'
+global.premium = ['48729759866']
+global.ownername = '𝒀𝑨𝑵𝒁 Keren'
+global.botname = '𝒀𝑨𝑵𝒁bot-Md'
+global.footer = '𝒀𝑨𝑵𝒁bot-Md'
 global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/shelaaa817'
+global.ig = 'https://instagram.com/ariff4you_'
 global.region = 'Planet China'
 
 // Keperluan buttons
 global.myweb = 'https://api-riych.herokuapp.com/'
-global.sc = 'https://github.com/Keyols/Keyolbot-Md'
+global.sc = 'Buy ke gw/di yt bnyak🗿👌'
 
 // Wm
 global.packname = 'Keyolbot-Md'
